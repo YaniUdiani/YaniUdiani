@@ -1,4 +1,4 @@
-## Hi there 👋,
+## Hi there 👋
 # I am a computational physicist and software developer with expertise in high performance cloud computing. 
 > **Note to hiring managers:**
 > Source codes that demonstrate my current caliber are proprietary to the Facility for Rare Isotope Beams and are thus private, but I am welcome to show and discuss during interviews.
