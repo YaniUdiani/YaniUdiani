@@ -1,8 +1,8 @@
 ## Hi there 👋
-# I am a computational physicist and software developer with expertise in high performance cloud computing. 
+# I am a computational physicist and software developer with expertise in physics and high performance cloud computing. 
 > **Note to hiring managers:**
-> source codes that demonstrate my programming caliber are proprietary to the Facility for Rare Isotope Beams (FRIB) and are thus private; but I am welcome to show and discuss said codes during interviews.
-> <!--and/or give temporary viewing access tokens upon request.-->
+> source codes from my graduate work are proprietary to the Facility for Rare Isotope Beams (FRIB) and are private. However, see the pinned repositiory `IMSRG_Snippets` for an overview of my work.
+ <!--and/or give temporary viewing access tokens upon request.-->
 
 <!--
 **YaniUdiani/YaniUdiani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
